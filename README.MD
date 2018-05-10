@@ -2,19 +2,19 @@
 
 ## Install
 
-git clone <thisurl>
+```git clone https://github.com/chscit12/es6-template```
 
-npm install
+```npm install```
 
 ## Usage
 
 ### Start the server
 
-npm run start
+```npm run start```
 
 ### Start webpack
 
-npm run webpack
+```npm run webpack```
 
 ## Dependencies
 
