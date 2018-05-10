@@ -10,7 +10,7 @@
 
 ### Start the server
 
-```npm run start```
+```npm run dev```
 
 ### Start webpack
 
@@ -18,7 +18,7 @@
 
 ### Visit the site
 
-Server is listening on [localhost:8000](localhost:8000)
+Server is listening on http://localhost:8000
 
 ## What's included
 

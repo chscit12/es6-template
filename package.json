@@ -4,7 +4,7 @@
   "description": "Template for using ES6 modules client and serverside",
   "main": "server.js",
   "scripts": {
-    "start": "node_modules/.bin/nodemon node_modules/.bin/babel-node server.js",
+    "dev": "node_modules/.bin/nodemon node_modules/.bin/babel-node server.js",
     "webpack": "node_modules/.bin/webpack-cli --watch"
   },
   "repository": {
