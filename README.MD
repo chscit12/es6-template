@@ -16,6 +16,16 @@
 
 ```npm run webpack```
 
+### Visit the site
+
+Server is listening on [localhost:8000](localhost:8000)
+
+## What's included
+
+* express server
+* webpack
+* minimal nodejs server with hot-reload
+
 ## Dependencies
 
 testet on: 
@@ -25,5 +35,5 @@ testet on:
 
 ## Description
 
-Use this template in case you want to use es6 syntax on server and client side
+This is a ready to code es6 nodejs express server with webpack and babel translating es6 to browser javascript. 
 
